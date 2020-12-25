@@ -1,6 +1,6 @@
-# 🎅 ST-Claus -- Subdomain Takeover Claus Scanner
+# 🎅 ST-Claus -- Subdomain Takeover Scanner
 
-🎅Subdomain Takeover Claus Scanner is a tool that help bug hunters and penetration testers to identify Subdomain Takeover vulnerabilities.
+🎅ST-Claus is a Subdomain Takeover Scanner that helps bug hunters and penetration testers to identify Subdomain Takeover vulnerabilities.
 
 # Screenshot
 

@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![](https://github.com/MrSaighnal/ST-Claus/blob/master/images/screen.png)
+![](https://github.com/MrSaighnal/ST-Claus/blob/main/images/screen.png)
 
 ## Quick start
 

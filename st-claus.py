@@ -172,7 +172,7 @@ def checkCNAME(domain):
 
 if __name__ == "__main__":
 	startup()
-	if len(sys.argv) == 1:
+	if len(sys.argv) < 2:
 		print("Usage: python3 st-claus.py list.txt")
 	else:
 		# Open the file 
